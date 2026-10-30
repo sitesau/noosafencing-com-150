@@ -1,0 +1,22 @@
+{
+  "wheel_id": 536,
+  "structure": "umbrella",
+  "slug": "noosafencing-com-150",
+  "project": "fencing-contractors-noosa-75492af7c3e278f5106577f57f2ce5b703f58",
+  "parent_t1_ref": "noosafencing.com-004",
+  "node_role": "buffer",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors noosa",
+  "intended_url": "https://sitesau.github.io/noosafencing-com-150/",
+  "tier": "T2",
+  "writeback_nonce": "6d537a7aa80b7686",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/fencing-contractors-noosa/",
+      "anchor": "Fencing Contractors Noosa: For Coastal And Hinterland Blocks",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
